@@ -49,8 +49,6 @@ def find_frequency(arr, target):
     return count
 
 
-
-
 arr = [10, 20, 10, 30, 10, 40]
 target = 10
 print("Input array:", arr)
