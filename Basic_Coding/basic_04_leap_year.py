@@ -14,3 +14,4 @@ result = is_leap_year(year)
 
 print("Year:", year)
 print("Result:", result)
+#Logic: A year is a leap year if divisible by 400, or divisible by 4 but not divisible by 100.
